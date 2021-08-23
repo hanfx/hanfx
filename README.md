@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanfx
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP and frameworks
+- 🌱 I’m currently learning PHP and Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://twitter.com/faruhane
 
