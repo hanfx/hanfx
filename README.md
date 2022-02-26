@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
         <td>
           <a href="https://github.com/anuraghazra/github-readme-stats">
             <img
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfx&layout=compact&theme=radical"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfx&layout=compact&theme=radical&langs_count=8"
               alt="anuraghazra/github-readme-stats"
             />
           </a>
