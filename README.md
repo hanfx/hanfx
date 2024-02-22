@@ -1,6 +1,6 @@
 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Frontend 
+- 👀 I’m interested in data
+- 🌱 I’m currently learning Data Engineering, Python 
 
 <!---
 hanfx/hanfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
